@@ -2,7 +2,7 @@ spring:
   datasource:
     url: jdbc:postgresql://localhost:5432/files_upload?createDatabaseIfNotExist=true
     username: postgres
-    password: Gmci@2001
+    password: password
     driver-class-name: org.postgresql.Driver
 
   jpa:
