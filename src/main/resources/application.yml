@@ -8,7 +8,7 @@ spring:
   jpa:
     hibernate:
       ddl-auto: update
-    database: postgres
+    database: postgresql
     show-sql: false
     properties:
       hibernate:
